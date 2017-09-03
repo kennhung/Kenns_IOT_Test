@@ -1,0 +1,143 @@
+{
+  "project_info": {
+    "project_number": "718736989945",
+    "firebase_url": "https://kenns-iot-test-proj.firebaseio.com",
+    "project_id": "kenns-iot-test-proj",
+    "storage_bucket": "kenns-iot-test-proj.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:718736989945:android:c3366cc23cd48d1b",
+        "android_client_info": {
+          "package_name": "net.ddns.kennhuang.kennsiottest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "718736989945-ur54l986ca63mln7c5sbt977nhdt9q6a.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "net.ddns.kennhuang.kennsiottest",
+            "certificate_hash": "095c50086caf293aa46a310c2e52256d4fd31895"
+          }
+        },
+        {
+          "client_id": "718736989945-itotvte9uef2f31u8shqugkt2k8dbqqs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDEy0qiPGgcRrJd63AQTX5NTM99-YK76eA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "718736989945-itotvte9uef2f31u8shqugkt2k8dbqqs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:718736989945:android:81cd89cd479cdf2f",
+        "android_client_info": {
+          "package_name": "net.ddns.kennhuang.main"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "718736989945-9dd4oo4s2on8q75gjbbv6as43osv090o.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "net.ddns.kennhuang.main",
+            "certificate_hash": "095c50086caf293aa46a310c2e52256d4fd31895"
+          }
+        },
+        {
+          "client_id": "718736989945-itotvte9uef2f31u8shqugkt2k8dbqqs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDEy0qiPGgcRrJd63AQTX5NTM99-YK76eA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "718736989945-itotvte9uef2f31u8shqugkt2k8dbqqs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:718736989945:android:c60bbf47ab4fca7a",
+        "android_client_info": {
+          "package_name": "net.ddns.kennhuang.kenns_iot_test"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "718736989945-qslgg0tm60t0npr4hl74512r3ibm6abr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "net.ddns.kennhuang.kenns_iot_test",
+            "certificate_hash": "ef059781c3f00ab95508336b8bb0fcb0884dbc31"
+          }
+        },
+        {
+          "client_id": "718736989945-itotvte9uef2f31u8shqugkt2k8dbqqs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDEy0qiPGgcRrJd63AQTX5NTM99-YK76eA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "718736989945-itotvte9uef2f31u8shqugkt2k8dbqqs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
